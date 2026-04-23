@@ -12,7 +12,9 @@ Customer feedback & satisfaction insights
 The end-to-end data analytics skills, including data modeling, DAX, visualization, and business storytelling.
 
 🧭 Dashboards Included
+
 1️⃣ Customer Distribution & Credit Segmentation
+
 
 <img width="1920" height="1080" alt="Customer Distribution Dashboard" src="https://github.com/user-attachments/assets/8a17f988-e771-418e-9cff-ff1fa7698db6" />
 
@@ -28,7 +30,10 @@ Key Insights:
 High concentration of customers in major states like California and Florida
 Credit segmentation shows the majority of customers in higher credit brackets
 Uneven distribution indicates potential expansion opportunities
+
+
 2️⃣ Product Mix & Customer Revenue Insights
+
 
 <img width="1400" height="812" alt="Product Mix   Customer Revenue Insights Dashboard" src="https://github.com/user-attachments/assets/4eb6e40d-ba1b-4dd7-b9f7-823ffc7f59d5" />
 
@@ -44,6 +49,8 @@ Key Insights:
 Perennials and Large Shrubs dominate sales volume
 Revenue is concentrated among a few high-value customers
 Cross-selling opportunities exist across product categories
+
+
 3️⃣ Product Feedback Analysis Dashboard
 
 <img width="1297" height="914" alt="Unpivot Check_Text Response" src="https://github.com/user-attachments/assets/37be1e03-ef9e-45e3-bc2a-0b51fe57f4cf" />
